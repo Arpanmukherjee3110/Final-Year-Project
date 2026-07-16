@@ -1,0 +1,37 @@
+[
+   {
+      "directory" : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg\" -DF28002x=1 -I\"C:/ti/C2000Ware_26_01_00_00/device_support/f28002x/common/include/\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28002x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg\" -DF28002x=1 -I\"C:/ti/C2000Ware_26_01_00_00/device_support/f28002x/common/include/\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28002x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   },
+   {
+      "directory" : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg\" -DF28002x=1 -I\"C:/ti/C2000Ware_26_01_00_00/device_support/f28002x/common/include/\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28002x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg/device.c"
+   },
+   {
+      "directory" : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg\" -DF28002x=1 -I\"C:/ti/C2000Ware_26_01_00_00/device_support/f28002x/common/include/\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28002x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg/device_cmd.c"
+   },
+   {
+      "directory" : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg\" -DF28002x=1 -I\"C:/ti/C2000Ware_26_01_00_00/device_support/f28002x/common/include/\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28002x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/main.c"
+   },
+   {
+      "directory" : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg\" -DF28002x=1 -I\"C:/ti/C2000Ware_26_01_00_00/device_support/f28002x/common/include/\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28002x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/pwm.c"
+   },
+   {
+      "directory" : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg\" -DF28002x=1 -I\"C:/ti/C2000Ware_26_01_00_00/device_support/f28002x/common/include/\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28002x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "C:/Users/Subham Mandal/workspace_ccstheia/led_ex1_blinky/uart.c"
+   }
+]
